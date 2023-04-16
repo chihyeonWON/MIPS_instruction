@@ -81,3 +81,5 @@ return 값은 $v0 (4byte 초과시 $v1 에 나눠서 저장)
 호출시 $ra 값 스택에 백업
 
 $s0 ~ $s7도 필요한 경우 스택에 백업
+
+![image](https://user-images.githubusercontent.com/58906858/232273243-3a186afb-1432-4eff-8091-c29c8e613be1.png)
