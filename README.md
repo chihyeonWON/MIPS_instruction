@@ -83,3 +83,4 @@ return 값은 $v0 (4byte 초과시 $v1 에 나눠서 저장)
 $s0 ~ $s7도 필요한 경우 스택에 백업
 
 ![image](https://user-images.githubusercontent.com/58906858/232273243-3a186afb-1432-4eff-8091-c29c8e613be1.png)
+![image](https://user-images.githubusercontent.com/58906858/232273262-49800e34-716e-439a-bf01-3590d6854ddf.png)
